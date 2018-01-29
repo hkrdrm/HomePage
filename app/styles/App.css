@@ -1,0 +1,27 @@
+.center-contents {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  margin-top: 50px;
+}
+
+.center-col {
+  width: 60%;
+}
+.flex-col {
+  margin-left: 25px;
+}
+.flex-row {
+  display: flex;
+  flex-flow: row;
+}
+
+.form-item {
+  margin-bottom: 15px;
+}
+
+.links {
+  width: 100%;
+  margin-top: 10px;
+}
