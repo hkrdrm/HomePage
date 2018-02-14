@@ -1,7 +1,7 @@
 /* dev env settings */
 
 export default {
-  env:  'dev',
+  env:  'prod',
   root: '/',
-  api:  ''
+  api:  '' 
 }
