@@ -8,7 +8,7 @@ const Home = () => (
     <Devtools />
     <div className="center-col">
       <GoogleSearch />
-      <CardRow imageSource="https://top10usenet.com/wp-content/uploads/2016/11/sabnzbd-logo.png">
+      <CardRow imageSource="https://images.squarespace-cdn.com/content/5441db9ae4b0ea3fd727c19f/1413695661294-CKF955B1UH7JI5OWS98K/image-asset.png?content-type=image%2Fpng">
         <h3><a href="http://sabnzbd.zombiepirate.pro/">Sabnzbd Plus+</a></h3>
         <p>To see everything currently downloading.</p>
       </CardRow>
