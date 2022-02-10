@@ -89,7 +89,7 @@
     "jest": "22.0.5",
     "less-loader": "^4.0.5",
     "less-vars-to-js": "^1.2.1",
-    "node-sass": "4.7.2",
+    "node-sass": "7.0.0",
     "open-browser-webpack-plugin": "0.0.5",
     "path": "^0.12.7",
     "react-addons-test-utils": "15.6.2",
